@@ -1,0 +1,6 @@
+{
+  "name": "Commute Ride Planner",
+  "description": "Helps users plan whether it is a good day to ride to work based on custom comfort thresholds and hourly weather.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
